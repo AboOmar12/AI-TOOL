@@ -1,0 +1,5 @@
+{
+  "name": "GradeGuard Dashboard",
+  "description": "A GUI for a Selenium-based Grade Monitoring System with simulated backend logic, terminal logs, and Telegram integration controls.",
+  "requestFramePermissions": []
+}
